@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    background-color: rgb(229, 229, 229);
+}
+
+.active {
+    color: red
+}
